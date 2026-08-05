@@ -1,0 +1,13 @@
+{
+  "name": "andina-booking-service",
+  "version": "1.0.0",
+  "description": "Orquesta la reserva final (saga): pago -> confirmacion de asiento -> registro",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
